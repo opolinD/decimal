@@ -1,0 +1,4 @@
+C:\GitHubProjects\decimal_forms\decimal_forms\x64\Debug\decimal_forms.vcxproj.AssemblyReference.cache
+C:\GitHubProjects\decimal_forms\decimal_forms\x64\Debug\decimal_forms.vcxproj.SuggestedBindingRedirects.cache
+C:\GitHubProjects\decimal_forms\decimal_forms\x64\Debug\decimalforms.F_decimal.resources
+C:\GitHubProjects\decimal_forms\decimal_forms\x64\Debug\decimal_forms.vcxproj.GenerateResource.cache

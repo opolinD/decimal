@@ -1,0 +1,11 @@
+﻿  Cdecimal.cpp
+C:\GitHubProjects\decimal_forms\decimal_forms\Cdecimal.cpp(36,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\decimal_forms\decimal_forms\Cdecimal.cpp(89,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\decimal_forms\decimal_forms\Cdecimal.cpp(90,53): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\decimal_forms\decimal_forms\Cdecimal.cpp(136,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  F_decimal.cpp
+  Создание кода...
+C:\GitHubProjects\decimal_forms\decimal_forms\Cdecimal.cpp(29): warning C4715: decimal::check_num: значение возвращается не при всех путях выполнения
+C:\GitHubProjects\decimal_forms\decimal_forms\Cdecimal.cpp(21): warning C4715: decimal::search_point: значение возвращается не при всех путях выполнения
+  Cdecimal.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  decimal_forms.vcxproj -> C:\GitHubProjects\decimal_forms\x64\Debug\decimal_forms.exe
