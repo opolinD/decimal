@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(38,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(39,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(48,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(49,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(58,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(59,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(73,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(74,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(83,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(84,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(93,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(94,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(173,6): warning C4101: a: неиспользованная локальная переменная
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(70): warning C4715: operator<: значение возвращается не при всех путях выполнения
+C:\GitHubProjects\6_sep\6_sep\Source.cpp(105): warning C4715: operator>: значение возвращается не при всех путях выполнения
+  6_sep.vcxproj -> C:\GitHubProjects\6_sep\x64\Debug\6_sep.exe
